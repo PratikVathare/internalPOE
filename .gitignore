@@ -1,0 +1,11 @@
+# .gitignore
+# This file tells Git which files and folders to ignore.
+# It helps keep the project clean and avoids uploading local caches.
+
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.venv/
+venv/
+.DS_Store
